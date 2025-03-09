@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "dependencies": {
         "amqplib": "^0.10.3",
+        "autoprefixer": "^10.4.21",
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
         "dotenv": "^16.4.0",
@@ -12,6 +13,8 @@
         "jsonwebtoken": "^9.0.0",
         "mongoose": "^8.0.0",
         "node-cron": "^3.0.0",
+        "postcss": "^8.5.3",
+        "postcss-cli": "^11.0.0",
         "puppeteer": "^22.0.0",
         "stripe": "^14.0.0"
     },
